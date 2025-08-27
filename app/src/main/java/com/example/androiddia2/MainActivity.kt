@@ -15,6 +15,7 @@ import com.example.androiddia2.ui.theme.AndroidDia2Theme
 
 //NO SE QUE ESTOY HACIENDO JAJAAJ
 
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
