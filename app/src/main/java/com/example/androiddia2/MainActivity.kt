@@ -15,7 +15,6 @@ import com.example.androiddia2.ui.theme.AndroidDia2Theme
 
 //NO SE QUE ESTOY HACIENDO JAJAAJ
 
-//HACIENDO PULL REQUEST
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
